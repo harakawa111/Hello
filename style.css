@@ -1,0 +1,13 @@
+#messageInput {
+  width: 300px;
+  padding: 5px;
+}
+
+#submitButton {
+  margin-left: 8px;
+}
+
+#messageList {
+  margin-top: 16px;
+  list-style-type: disc;
+}
